@@ -13,7 +13,7 @@ export default function Options() {
         <Link to="/sjf" className="lnk btn">
           SJF
         </Link>
-        <Link to="/hrrr" className="lnk btn">
+        <Link to="/hrrn" className="lnk btn">
           HRRR
         </Link>
       </Nav>

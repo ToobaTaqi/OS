@@ -6,7 +6,7 @@ export default function Header() {
     // <div >
       <div className="fixed hdr">
         <div>
-          <h3>Designed By Tooba</h3>
+          <h3>Operating System</h3>
         </div>
         <div>
           <Link to="/" className="lnk btn">
